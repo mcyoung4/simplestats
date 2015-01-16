@@ -30,7 +30,7 @@ def test_floating_mean1():
 def test_median1():
     obs = median([0, 1, 2])
     exp = 1
-    assert_equal(obe, exp)
+    assert_equal(obs, exp)
 
 
 
